@@ -1,2 +1,2 @@
 # valo_scout
-a valorant stat tracker
+A VALORANT stat tracker using a fake RIOT API. 
